@@ -1,1 +1,1 @@
-# Magic-Search-sub-to-Atous-Search-sub
+# 奇妙搜索订阅转Atous订阅 转换器
