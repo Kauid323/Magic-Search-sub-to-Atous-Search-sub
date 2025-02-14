@@ -9,4 +9,4 @@
 > 不过缺点也很明显，界面ui长的不是很beautiful啊，而且这是答辩ai的杰作，目前完善的不是很好，所以有什么bug马上给我提issue，让我反馈给ai修(
 
 # 这个项目有什么简称吗？？
->有的兄弟，有的。是这样的，为了叫提起来顺口，让更多人知道我们的项目，所以暂定简称为[未定](https://github.com/Kauid323/MagicS-Reciprocal-AtousS/)事件簿
+>有的兄弟，有的。是这样的，为了叫起来顺口，让更多人知道我们的项目，所以暂定简称为[未定](https://github.com/Kauid323/MagicS-Reciprocal-AtousS/)事件簿
